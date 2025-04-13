@@ -1,5 +1,7 @@
 # 🎓 E-Learning App
-A beautifully designed UI prototype for an e-learning platform built with React Native. This project is entirely **UI-based**, using **static/mock data** to showcase the visual design and user experience of an educational app without backend integration.
+
+A beautifully crafted weather app built with React Native. This project is entirely **UI-based**, using **static/mock data** to simulate a real-world weather application. It focuses on showcasing layout design, user interface structure, and component styling without relying on live APIs or real-time data.
+
 ---
 ## 🚀 UI Features
 - 📚 Visual representation of course categories and curricula
@@ -31,8 +33,11 @@ npx react-native run-android # or run-ios
 ```
 **Ensure that you have the React Native development environment properly configured.**
 ## 🤝 Contributing
-Pull requests are welcome for UI improvements! For major design changes, please open an issue first to discuss what you would like to change.
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
 ---
+
 ## ✨ Credits
 
 Developed with 💙 by [Mohamed Yaseen](https://github.com/mohd-yaseen-official)
