@@ -17,7 +17,9 @@ A beautifully designed UI prototype for an e-learning platform built with React 
 - **Static JSON or State Mapping**
 ---
 ## ⚠️ Note
-This is a **UI prototype only**. The app does **not** connect to any backend services or APIs. All displayed information is hardcoded or mapped via static state to demonstrate the interface design and user flow.
+
+This is a **UI prototype**. The app does **not** fetch live lecture data or interact with any backend services. All displayed information is hardcoded or mapped via static state.
+
 ---
 ## 🛠️ Getting Started
 To run this UI prototype locally:
